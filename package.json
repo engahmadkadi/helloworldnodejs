@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "helloworldnodejs",
   "version": "1.0.0",
   "description": "This app is demonstarte how to initialize nodejs project",
   "main": "app.js",
